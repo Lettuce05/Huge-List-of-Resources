@@ -5,10 +5,25 @@
 
 [Learn X in Y - Where X=Bash](https://learnxinyminutes.com/docs/bash/)
 
+## Chrome Extensions
+[Momentum - Replaces new tab page with inspiration quote and photo](https://chrome.google.com/webstore/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca?hl=en&ck_subscriber_id=754165606)
+
+[Wappalyzer - Identifies web technologies used on a webpage](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg?hl=en&ck_subscriber_id=754165606)
+
+[JSON Formatter](https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa?hl=en&ck_subscriber_id=754165606)
+
+[The Great Suspender - Pauses tabs that aren't currently being used (Saves RAM!)](https://chrome.google.com/webstore/detail/the-great-suspender/klbibkeccnjlkjkiokjodocebajanakg?hl=en&ck_subscriber_id=754165606)
+
+[Loom - Record your screen, voice, and face to create instantly shareable videos](https://chrome.google.com/webstore/detail/loom-for-chrome/liecbddmkiiihnedobmlmillhodjkdmb?hl=en-US&ck_subscriber_id=754165606)
+
+[Stellar Color Picker - Get HTML, RGB, and HEX of any color on a webpage](https://chrome.google.com/webstore/detail/stellar-color-picker/ochknfbnjgcjohngcepghiknmaongpib?hl=en-US&ck_subscriber_id=754165606)
+
 ## Design Tools
 [Matchstick - Visually compare your code and designs](https://matchstick.xyz/)
 
 [TwicPics - Image Placeholders](https://discover.twicpics.com/en/placeholder)
+
+[Draw.io - Wireframe Tool](https://www.draw.io/?ck_subscriber_id=754165606)
 
 ## Fonts
 [Perfect Font Pairings](https://fontpairings.bypeople.com/)
