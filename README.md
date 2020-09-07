@@ -18,6 +18,9 @@
 
 [Stellar Color Picker - Get HTML, RGB, and HEX of any color on a webpage](https://chrome.google.com/webstore/detail/stellar-color-picker/ochknfbnjgcjohngcepghiknmaongpib?hl=en-US&ck_subscriber_id=754165606)
 
+## CSS Frameworks
+[Bulma](https://bulma.io/)
+
 ## Design Tools
 [Matchstick - Visually compare your code and designs](https://matchstick.xyz/)
 
@@ -53,6 +56,13 @@
 [Generate Big Heads](https://bigheads.io/)
 
 [The Ultimate Avatar Library](https://limitlessdesigns.io/avatar-illustrations/)
+
+## React Component Libraries
+[Bumbag](https://bumbag.style/)
+[Ant Design](https://ant.design/)
+[React Bootstrap](https://react-bootstrap.github.io/)
+[Chakra UI](https://chakra-ui.com/)
+[Material-UI](https://material-ui.com/)
 
 
 ## Terminal
