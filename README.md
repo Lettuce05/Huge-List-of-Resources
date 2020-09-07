@@ -69,6 +69,9 @@
 
 [Material-UI](https://material-ui.com/)
 
+## React
+[React Skeleton - Better loading experience for react components](https://skeletonreact.com/)
+
 
 ## Terminal
 [Fig - Apps & Shortcuts for your terminal](https://withfig.com/)
