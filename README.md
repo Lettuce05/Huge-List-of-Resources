@@ -28,6 +28,11 @@
 
 [Draw.io - Wireframe Tool](https://www.draw.io/?ck_subscriber_id=754165606)
 
+## Development Tools
+[Responsively - Test responsiveness](https://responsively.app/)
+
+[Starboard - Like Jupyter notebooks but for Javascript](https://starboard.gg/)
+
 ## Fonts
 [Perfect Font Pairings](https://fontpairings.bypeople.com/)
 
@@ -45,6 +50,10 @@
 
 [266 responsive icons](https://gumroad.com/l/freeicons)
 
+[Icon Shock - Social Media Icons](https://www.iconshock.com/social-media-icons/)
+
+[Basicons](https://basicons.xyz/)
+
 
 ## Illustrations
 [freeillustrations.xyz](https://freeillustrations.xyz/)
@@ -56,6 +65,9 @@
 [Generate Big Heads](https://bigheads.io/)
 
 [The Ultimate Avatar Library](https://limitlessdesigns.io/avatar-illustrations/)
+
+## Javascript Libraries
+[Danfo.js - Similar to Pandas](https://danfo.jsdata.org/)
 
 ## React Component Libraries
 
@@ -78,8 +90,13 @@
 
 [Hyper Terminal](https://hyper.is/)
 
+## VS Code Extensions
+[#100DaysOfCode VS Code Extensions](https://www.software.com/100-days-of-code)
+
 ## Misc
 [Lists you can copy and paste](https://copypastelist.com/tech/)
+
+[Unscreen - Remove video backgrounds](https://www.unscreen.com/)
 
 
 
