@@ -18,6 +18,14 @@
 
 [Stellar Color Picker - Get HTML, RGB, and HEX of any color on a webpage](https://chrome.google.com/webstore/detail/stellar-color-picker/ochknfbnjgcjohngcepghiknmaongpib?hl=en-US&ck_subscriber_id=754165606)
 
+## Color Palettes
+
+[ColorBox](https://colorbox.io/)
+
+[Tint and Shade Generator](https://maketintsandshades.com/)
+
+
+
 ## CSS Frameworks
 [Bulma](https://bulma.io/)
 
@@ -27,6 +35,8 @@
 [TwicPics - Image Placeholders](https://discover.twicpics.com/en/placeholder)
 
 [Draw.io - Wireframe Tool](https://www.draw.io/?ck_subscriber_id=754165606)
+
+[UI Coach](https://uicoach.io/app)
 
 ## Development Tools
 [Responsively - Test responsiveness](https://responsively.app/)
@@ -53,6 +63,8 @@
 [Icon Shock - Social Media Icons](https://www.iconshock.com/social-media-icons/)
 
 [Basicons](https://basicons.xyz/)
+
+[Phosphor Icons](https://phosphoricons.com/)
 
 
 ## Illustrations
@@ -98,8 +110,8 @@
 
 [Unscreen - Remove video backgrounds](https://www.unscreen.com/)
 
+[Slogan Generator](https://www.logaster.com/slogan-generator/)
 
-
-
+[Multiavatar - Avatar Maker](https://github.com/multiavatar/Multiavatar)
 
 
