@@ -3,6 +3,7 @@
 ## API's
 
 [Mapbox - Map API](https://www.mapbox.com/)
+[Public APIs](https://public-apis.io/)
 
 ## Bash Scripting
 [Bash Scripting: Everything you need to know about Bash-shell programming](https://medium.com/sysf/bash-scripting-everything-you-need-to-know-about-bash-shell-programming-cd08595f2fba)
@@ -33,6 +34,10 @@
 ## CSS Frameworks
 [Bulma](https://bulma.io/)
 
+[NES.css](https://nostalgic-css.github.io/NES.css/)
+
+[Chart.css - CSS data visualization framework](https://chartscss.org/)
+
 ## Design Tools
 [Matchstick - Visually compare your code and designs](https://matchstick.xyz/)
 
@@ -42,10 +47,20 @@
 
 [UI Coach](https://uicoach.io/app)
 
+[Svg waves generator](https://www.svgwaves.io/)
+
+[Glassmorphism CSS Generator](https://glassmorphism.com/)
+
+[Transition.css - Drop-in css transitions](https://transition.style/)
+
+[Pattern Generator](https://doodad.dev/pattern-generator/)
+
 ## Development Tools
 [Responsively - Test responsiveness](https://responsively.app/)
 
 [Starboard - Like Jupyter notebooks but for Javascript](https://starboard.gg/)
+
+[Screen Size Map - All screen sizes](https://screensizemap.com/)
 
 ## Fonts
 [Perfect Font Pairings](https://fontpairings.bypeople.com/)
@@ -82,6 +97,10 @@
 
 [The Ultimate Avatar Library](https://limitlessdesigns.io/avatar-illustrations/)
 
+[Humanotion - Free Avatary Pack](https://gumroad.com/l/avatarpack)
+
+[Free Illustrations](https://lukaszadam.com/illustrations)
+
 ## Javascript Libraries
 [Danfo.js - Similar to Pandas](https://danfo.jsdata.org/)
 
@@ -106,6 +125,9 @@
 
 [Hyper Terminal](https://hyper.is/)
 
+## Testing
+[Ponicode - Quick and easy unit tests](https://ponicode.com/)
+
 ## VS Code Extensions
 [#100DaysOfCode VS Code Extensions](https://www.software.com/100-days-of-code)
 
@@ -117,5 +139,13 @@
 [Slogan Generator](https://www.logaster.com/slogan-generator/)
 
 [Multiavatar - Avatar Maker](https://github.com/multiavatar/Multiavatar)
+
+[Relocate.me -  Find tech jobs](https://relocate.me/)
+
+[Ray.so - Beautiful Code Snippets](https://ray.so/)
+
+[free-for.dev - Alot of free tools and tiers for developers](https://free-for.dev/#/?id=free-fordev)
+
+[free image resizer](https://promo.com/tools/image-resizer/)
 
 
